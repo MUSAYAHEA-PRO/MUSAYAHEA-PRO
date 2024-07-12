@@ -1,5 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
+## Take a break and check out my profile
 
 **MUSAYAHEA-PRO/MUSAYAHEA-PRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
