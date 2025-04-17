@@ -1,5 +1,7 @@
 ## 👋 Hi, I’m Musa Yahea
 
+![Banner](https://www.linkedin.com/in/musayahea/overlay/background-image/)
+
 I'm a passionate and dedicated **Front-End Developer** who enjoys building modern, responsive, and user-centric websites using **HTML**, **CSS**, and **JavaScript**. My journey in web development started with curiosity, but quickly turned into a deep passion for crafting clean, efficient, and aesthetically pleasing digital experiences.
 
 Over the past year, I’ve not only learned how to code but also how to listen — to understand what users need and what clients envision. I focus on turning ideas into reality, ensuring that every website I build is intuitive, accessible, and impactful.
