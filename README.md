@@ -1,38 +1,16 @@
-# 👋 Hi, I’m Musa Yahea  
-🎨 I’m a creative web designer who believes in building modern, clean, and user-friendly websites. In every design, I strive to create the perfect balance between visual appeal and functionality.
+## 👋 Hi, I’m Musa Yahea
 
-## 👋 About Me
+I’m a passionate and dedicated **Front-End Developer** with expertise in building clean, responsive, and user-friendly websites using **HTML**, **CSS**, and **JavaScript**. Over the past year, I’ve honed my skills in not just coding, but in understanding clients' visions and turning them into functional, visually appealing digital experiences.
 
-Hello! I'm **Musa Yahea**, a professional web designer with a passion for continuously learning and creating. I view web design not just as an art form, but as a powerful tool to tell a brand's story and provide users with a memorable experience.
+My goal in every project is to strike the right balance between design and functionality. A great website should be visually engaging, easy to navigate, fast, and mobile-friendly.
 
-My expertise lies in **HTML**, **CSS**, and **JavaScript**, and I specialize in designing responsive websites that work seamlessly across all devices. I am deeply focused on the design process, always striving to create a harmonious balance between visual appeal and user experience.
+### 🔧 Skills & Technologies:
+- **HTML5**  
+- **CSS3**  
+- **JavaScript**  
+- **Responsive Web Design**  
+- **Clean UI & Custom Design**
 
-I believe web design is not just a digital experience, but a means of establishing a strong connection with users. In my design process, I prioritize the user first, working around their needs and goals to create intuitive, user-centered designs.
+I am always learning and improving my skills. I aim to stay up-to-date with new tools and technologies, and I'm currently exploring frameworks like **Tailwind CSS** and **React.js** to add even more value to my work.
 
-Currently, I’m eager to collaborate on various design projects where I can further refine my skills and take on new challenges. I’m open to remote work opportunities, eager to work with diverse teams, and always looking forward to learning and growing in this ever-evolving field.
-
-If you’re looking for a web design project where creativity, technology, and functionality meet, don’t hesitate to reach out. I’m always ready for new opportunities and challenges.
-
-## 💼 What I Do
-- 🌐 Design and develop responsive websites using HTML, CSS, and JavaScript  
-- 🖼️ Build visually engaging portfolio sites with video backgrounds  
-- 🎯 Focus on creating clean, modern, and user-friendly interfaces  
-
-## 🧰 Tech Stack   
-  ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5)  
-  ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)  
-  ![Responsive Web Design](https://img.shields.io/badge/-Responsive%20Web%20Design-0db7ed?logo=responsive&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-
-## 📌 Featured Projects
-- 🔗 [My Portfolio Website](https://your-portfolio-link.com)
-- 🔗 [Fiverr Profile](https://www.fiverr.com/yourusername)
-- 🔗 [LinkedIn](https://linkedin.com/in/musa-yahea)
-
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/musa-yahea)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail)](mailto:your-email@example.com)
-
----
-⭐️ Thanks for visiting!
+🎯 My mission is to bring ideas and brands to life through front-end development, delivering meaningful digital experiences.
