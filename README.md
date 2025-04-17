@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Musa Yahea
 
-![Banner](https://www.linkedin.com/in/musayahea/overlay/background-image/)
+![Banner](https://github.com/MUSAYAHEA-PRO/MUSAYAHEA-PRO/blob/main/Asset/Musa%20Yahea%20Musa%20yahea%20musa%20yahea%20Musa%20Yahea%20Banner.png)
 
 I'm a passionate and dedicated **Front-End Developer** who enjoys building modern, responsive, and user-centric websites using **HTML**, **CSS**, and **JavaScript**. My journey in web development started with curiosity, but quickly turned into a deep passion for crafting clean, efficient, and aesthetically pleasing digital experiences.
 
