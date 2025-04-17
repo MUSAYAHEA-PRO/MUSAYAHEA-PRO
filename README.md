@@ -45,7 +45,7 @@ Whether it's a simple portfolio or a dynamic landing page, I approach each proje
 
 ### 📫 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/musayahea/)  
-- [X (Twitter)](https://x.com/Musayahea)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musayahea/)
+[![X](https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Musayahea)
 
 I’m always excited to meet new people, collaborate on creative projects, or just chat about tech!
